@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 //https://github.com/seresistvanandras/evoting https://github.com/kevinejohn/blind-signatures/ This contract is based on Seres' and Kevin's works. Credits and thanks to them. and also the paper Seres consulted from https://eprint.iacr.org/2017/1043.pdf .
-// This code contains Blind Signature on Ethereum Network(or EVM based)!
-// Additionally to Seres' and Kevin's work, this code contains Threshold Encryption (sharing private key to the specified people).
+// This code contains e-Voting Blind Signature on Ethereum Network(or EVM based)!
+// Additionally to Seres' and Kevin's work, this code will contain Threshold Encryption.
 
 pragma solidity ^ 0.8 .0;
 
